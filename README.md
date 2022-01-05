@@ -1,7 +1,9 @@
 # Splunk_Vandalay_Industries_Files
 
 Unit 18 Homework: Lets go Splunking!
+
 Rice University, Boot Camp Certificate Program, Cyber Security
+
 Data provided by Trilogy Education Services, a 2U, Inc. brand.
 
 Scenario
